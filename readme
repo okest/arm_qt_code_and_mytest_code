@@ -1,0 +1,9 @@
+ts_lib
+
+libpng
+
+
+
+
+
+./configure -prefix /home/foryou/minigui/arm_qt/qt-everywhere-opensource-src-4.8.6/install -opensource  -embedded arm  -xplatform qws/linux-arm-gnueabi-g++ -little-endian -fast   -qt-mouse-tslib
